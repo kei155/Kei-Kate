@@ -1,6 +1,6 @@
 {
-  "name": "@kei/kate",
-  "version": "1.0.0",
+  "name": "@owneul/kate",
+  "version": "1.0.1",
   "description": "Very Simple Date data manage Module",
   "main": "dist/index.js",
   "scripts": {
@@ -10,8 +10,10 @@
   },
   "keywords": [
     "date",
-    "kei"
+    "kei",
+    "keideaness"
   ],
+  "repository": "https://github.com/kei155/Kei-Kate.git",
   "author": "Keideaness <owneul@gmail.com>",
   "license": "MIT",
   "devDependencies": {

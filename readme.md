@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm i @kei/kate
+npm i @owneul/kate
 ```
 
 ## Usage
