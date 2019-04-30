@@ -60,5 +60,5 @@ Kate.setDayLabels(['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT']); // start w
 
 [MIT](http://vjpr.mit-license.org)
 
-[npm-image]: https://img.shields.io/npm/v/live-xxx.svg
-[npm-url]: https://npmjs.org/package/live-xxx
+[npm-image]: https://img.shields.io/npm/v/@owneul/kate.svg
+[npm-url]: https://www.npmjs.com/package/@owneul/kate
